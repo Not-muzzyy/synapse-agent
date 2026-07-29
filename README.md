@@ -34,7 +34,7 @@ Modern students often struggle with passive learning methods—reading textbooks
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/synapse.git
+   git clone https://github.com/Not-muzzyy/synapse-agent.git 
    cd synapse
    ```
 
